@@ -8,4 +8,4 @@
 - Easy to customize for interactive UI or navigation
 
 ### Screenshot:
-![image](https://github.com/user-attachments/assets/8a121710-c869-498a-956b-7963ab975972)
+![image](https://github.com/user-attachments/assets/7cd874ed-38ac-44f9-a3ca-4970ca4359a0)
