@@ -1,16 +1,8 @@
-# first_flutter_project
+# Flutter Four Boxes UI
+## This Flutter project creates a simple user interface consisting of four small boxes arranged in a 2x2 grid using `Column`, `Row`, and `Container` widgets.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Features:
+- Displays four styled 100x100 boxes
+- Boxes are centered on the screen in two rows
+- Clean and minimal layout using core Flutter widgets
+- Easy to customize for interactive UI or navigation
