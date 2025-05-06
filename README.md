@@ -6,3 +6,6 @@
 - Boxes are centered on the screen in two rows
 - Clean and minimal layout using core Flutter widgets
 - Easy to customize for interactive UI or navigation
+
+### Screenshot:
+![image](https://github.com/user-attachments/assets/8a121710-c869-498a-956b-7963ab975972)
