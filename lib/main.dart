@@ -40,18 +40,18 @@ class _MyHomePageState extends State<MyHomePage> {
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                buildBox('Box 1'),
+                buildBox('1'),
                 const SizedBox(width: 20),
-                buildBox('Box 2'),
+                buildBox('2'),
               ],
             ),
             const SizedBox(height: 20),
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                buildBox('Box 3'),
+                buildBox('3'),
                 const SizedBox(width: 20),
-                buildBox('Box 4'),
+                buildBox('4'),
               ],
             ),
           ],
@@ -65,13 +65,13 @@ class _MyHomePageState extends State<MyHomePage> {
       width: 100,
       height: 100,
       decoration: BoxDecoration(
-        color: Colors.blueAccent,
+        color: Colors.grey,
         borderRadius: BorderRadius.circular(12),
       ),
       child: Center(
         child: Text(
           label,
-          style: const TextStyle(color: Colors.white, fontSize: 16),
+          style: const TextStyle(color: Colors.black, fontSize: 16),
         ),
       ),
     );
